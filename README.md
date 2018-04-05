@@ -1,0 +1,2 @@
+# handWrittenToDigital
+Digitizing handwritten document
